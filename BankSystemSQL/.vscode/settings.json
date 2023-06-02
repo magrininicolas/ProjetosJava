@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "libs/antlr-2.7.7.jar",
+        "libs/txw2-2.3.1.jar"
+    ]
+}
